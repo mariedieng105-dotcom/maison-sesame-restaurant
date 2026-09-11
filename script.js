@@ -20,7 +20,7 @@
       price: 7000,
       cats: ["principaux", "poissons"],
       desc: "Riz au poisson mijoté dans une sauce tomate, accompagné de légumes traditionnels : carotte, chou, manioc et aubergine.",
-      img: "https://commons.wikimedia.org/wiki/Special:FilePath/Senegalese_Thieboudienne.JPG"
+      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThne9KsGjSJK0VkZXD3Hgv6i7AqIodI7wKmY2wuVvTcw&s=10"
     },
     {
       id: "mafe",
@@ -29,7 +29,7 @@
       price: 6000,
       cats: ["principaux", "viandes"],
       desc: "Viande mijotée dans une onctueuse sauce à base d'arachide, servie avec du riz blanc et des légumes de saison.",
-      img: "https://commons.wikimedia.org/wiki/Special:FilePath/Mafe_SN.JPG"
+      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuMjlkasQXrXElf-ZcRVw2NLpYIQIUaC8KCohE8H2HkA&s=10"
     },
     {
       id: "yassa-poulet",
@@ -83,7 +83,7 @@
       price: 2000,
       cats: ["desserts"],
       desc: "Couscous de mil sucré, mélangé à du lait caillé et parfumé à la vanille — un dessert frais et gourmand.",
-      img: "https://commons.wikimedia.org/wiki/Special:FilePath/Le_thiakry_%C3%A0_base_de_mangue_01.jpg"
+      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8Sjm-8ASHJeHGNEiN1twKsMHbj9be7hUOmeYpuQOtNg&s=10"
     },
     {
       id: "bissap",
@@ -92,7 +92,7 @@
       price: 1500,
       cats: ["boissons"],
       desc: "Boisson rafraîchissante à base de fleurs d'hibiscus, légèrement sucrée et parfumée à la menthe.",
-      img: "https://commons.wikimedia.org/wiki/Special:FilePath/Sirop_bissap_04.jpg"
+      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi6_-CbAZcElTCSwEk_fuT8CC5Asiaob5A6eg6xveaPw&s=10"
     },
     {
       id: "bouye",
@@ -110,7 +110,7 @@
       price: 1500,
       cats: ["boissons"],
       desc: "Jus de gingembre frais, parfumé et légèrement pimenté, préparé chaque jour de façon artisanale.",
-      img: "https://commons.wikimedia.org/wiki/Special:FilePath/Jus_de_bouye,_gingembre_et_bissap_02.jpg"
+      img: "https://cdn.aistoucuisine.com/assets/3f47c274-f145-449c-8066-2704d067b9f0/jus-gingembre-citron"
     }
   ];
 
@@ -118,13 +118,13 @@
      GALERIE
   --------------------------------------------------------- */
   const GALLERY = [
-    { img: "https://commons.wikimedia.org/wiki/Special:FilePath/Senegalese_Thieboudienne.JPG", caption: "Thiéboudienne", tall: true },
+    { img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThne9KsGjSJK0VkZXD3Hgv6i7AqIodI7wKmY2wuVvTcw&s=10", caption: "Thiéboudienne", tall: true },
     { img: "https://images.unsplash.com/photo-1552566626-52f8b828add9?w=700&q=80&auto=format&fit=crop", caption: "Salle du restaurant" },
     { img: "https://commons.wikimedia.org/wiki/Special:FilePath/Poulet_Yassa.JPG", caption: "Yassa poulet" },
-    { img: "https://commons.wikimedia.org/wiki/Special:FilePath/Sirop_bissap_04.jpg", caption: "Bissap" },
+    { img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi6_-CbAZcElTCSwEk_fuT8CC5Asiaob5A6eg6xveaPw&s=10", caption: "Bissap" },
     { img: "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=900&q=80&auto=format&fit=crop", caption: "Ambiance chaleureuse", wide: true },
-    { img: "https://commons.wikimedia.org/wiki/Special:FilePath/Mafe_SN.JPG", caption: "Mafé", tall: true },
-    { img: "https://commons.wikimedia.org/wiki/Special:FilePath/Le_thiakry_%C3%A0_base_de_mangue_01.jpg", caption: "Thiakry" },
+    { img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuMjlkasQXrXElf-ZcRVw2NLpYIQIUaC8KCohE8H2HkA&s=10", caption: "Mafé", tall: true },
+    { img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8Sjm-8ASHJeHGNEiN1twKsMHbj9be7hUOmeYpuQOtNg&s=10", caption: "Thiakry" },
     { img: "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=700&q=80&auto=format&fit=crop", caption: "Détails de table" }
   ];
 
