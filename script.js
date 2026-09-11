@@ -20,7 +20,7 @@
       price: 7000,
       cats: ["principaux", "poissons"],
       desc: "Riz au poisson mijoté dans une sauce tomate, accompagné de légumes traditionnels : carotte, chou, manioc et aubergine.",
-      img: "https://commons.wikimedia.org/wiki/Special:FilePath/Thi%C3%A9boudi%C3%A8ne_servi_au_restaurant_Baobab_%C3%A0_Lyon_(juil_2022).jpg"
+      img: "https://commons.wikimedia.org/wiki/Special:FilePath/Senegalese_Thieboudienne.JPG"
     },
     {
       id: "mafe",
@@ -29,7 +29,7 @@
       price: 6000,
       cats: ["principaux", "viandes"],
       desc: "Viande mijotée dans une onctueuse sauce à base d'arachide, servie avec du riz blanc et des légumes de saison.",
-      img: "https://commons.wikimedia.org/wiki/Special:FilePath/Maf%C3%A9_au_b%C5%93uf_dans_un_restaurant_africain_%C3%A0_Lyon_(2019).jpg"
+      img: "https://commons.wikimedia.org/wiki/Special:FilePath/Mafe_SN.JPG"
     },
     {
       id: "yassa-poulet",
@@ -118,12 +118,12 @@
      GALERIE
   --------------------------------------------------------- */
   const GALLERY = [
-    { img: "https://commons.wikimedia.org/wiki/Special:FilePath/Thi%C3%A9boudi%C3%A8ne_servi_au_restaurant_Baobab_%C3%A0_Lyon_(juil_2022).jpg", caption: "Thiéboudienne", tall: true },
+    { img: "https://commons.wikimedia.org/wiki/Special:FilePath/Senegalese_Thieboudienne.JPG", caption: "Thiéboudienne", tall: true },
     { img: "https://images.unsplash.com/photo-1552566626-52f8b828add9?w=700&q=80&auto=format&fit=crop", caption: "Salle du restaurant" },
     { img: "https://commons.wikimedia.org/wiki/Special:FilePath/Poulet_Yassa.JPG", caption: "Yassa poulet" },
     { img: "https://commons.wikimedia.org/wiki/Special:FilePath/Sirop_bissap_04.jpg", caption: "Bissap" },
     { img: "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=900&q=80&auto=format&fit=crop", caption: "Ambiance chaleureuse", wide: true },
-    { img: "https://commons.wikimedia.org/wiki/Special:FilePath/Maf%C3%A9_au_b%C5%93uf_dans_un_restaurant_africain_%C3%A0_Lyon_(2019).jpg", caption: "Mafé", tall: true },
+    { img: "https://commons.wikimedia.org/wiki/Special:FilePath/Mafe_SN.JPG", caption: "Mafé", tall: true },
     { img: "https://commons.wikimedia.org/wiki/Special:FilePath/Le_thiakry_%C3%A0_base_de_mangue_01.jpg", caption: "Thiakry" },
     { img: "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=700&q=80&auto=format&fit=crop", caption: "Détails de table" }
   ];
