@@ -326,3 +326,17 @@ h1,h2,h3{font-family:var(--ff-title);font-weight:600;color:var(--black);margin:0
   .footer-grid{grid-template-columns:1fr;gap:30px;}
   .contact-info-card{padding:30px 24px;}
 }
+
+/* ---------- Retour agence ---------- */
+.back-to-agency{
+  position:fixed;bottom:18px;left:18px;z-index:250;
+  display:inline-flex;align-items:center;gap:6px;
+  padding:9px 16px;border-radius:30px;
+  background:rgba(21,16,12,.85);border:1px solid var(--line-dark);
+  color:var(--text-on-dark);font-size:.76rem;font-weight:600;letter-spacing:.02em;
+  box-shadow:var(--shadow);backdrop-filter:blur(6px);
+  transition:background .2s ease, transform .2s ease, color .2s ease;
+}
+.back-to-agency:hover{background:var(--black);color:var(--gold-light);transform:translateY(-2px);}
+.back-to-agency .arrow{transition:transform .2s ease;}
+.back-to-agency:hover .arrow{transform:translateX(-3px);}
